@@ -1,8 +1,18 @@
 body {
     font-style: normal;
+    display: flex;
+    flex-direction: column;
+    flex-align: center;
 }
+
+
 
 .paragraph {
     width: 700px;
     font-size: 18px;
+}
+
+img {
+    width: 640px;
+    height: auto;
 }
