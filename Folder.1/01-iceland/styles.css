@@ -1,4 +1,4 @@
-body {
+.maincontent {
     font-style: normal;
     display: flex;
     flex-direction: column;
@@ -11,6 +11,10 @@ body {
     font-size: 22px;
 }
 
+.reasontitles {
+    margin-bottom: -8px;
+}
+
 .paragraph {
     width: 700px;
     font-size: 18px;
@@ -19,6 +23,7 @@ body {
 .conclusion {
     width: 1000px;
     font-size: 22px;
+    padding: 10px 0;
 }
 
 .talink {
@@ -35,6 +40,6 @@ img {
 }
 
 .reasonimages {
-    padding: 0 0 30px;
+    padding: 0 0 40px;
 }
 
