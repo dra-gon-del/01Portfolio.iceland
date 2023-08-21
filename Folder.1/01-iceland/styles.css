@@ -6,7 +6,10 @@ body {
     align-items: center;
 }
 
-
+.introduction {
+    width: 1000px;
+    font-size: 22px;
+}
 
 .paragraph {
     width: 700px;
