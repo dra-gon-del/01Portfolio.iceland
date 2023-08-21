@@ -21,6 +21,14 @@ body {
     font-size: 22px;
 }
 
+.talink {
+    width: 1000px;
+}
+
+.sources-p {
+    padding: 30px;
+}
+
 img {
     width: 640px;
     height: auto;
@@ -29,3 +37,4 @@ img {
 .reasonimages {
     padding: 0 0 30px;
 }
+
