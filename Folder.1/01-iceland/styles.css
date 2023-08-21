@@ -16,6 +16,11 @@ body {
     font-size: 18px;
 }
 
+.conclusion {
+    width: 1000px;
+    font-size: 22px;
+}
+
 img {
     width: 640px;
     height: auto;
