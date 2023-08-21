@@ -1,3 +1,13 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.greybox {
+
+}
+
 .maincontent {
     font-style: normal;
     display: flex;
